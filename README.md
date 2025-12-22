@@ -24,7 +24,7 @@ Private credit benchmarks are typically **paywalled, opaque, and unavailable at 
 
 ## Applications
 - Return attribution and income vs. price decomposition  
-- Credit risk and covenant deterioration analysis  
+- Access to cleaned loan-level investment dataset for further private credit research 
 - Early-warning signals (demonstrated via a **First Brands Group bankruptcy case study**)  
 - Transparent private credit benchmarking and research
 
