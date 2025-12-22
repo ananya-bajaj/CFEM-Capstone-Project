@@ -10,7 +10,7 @@ Private credit benchmarks are typically **paywalled, opaque, and unavailable at 
 
 ## Key Features
 - **Automated ETL pipeline** to parse, clean, and standardize heterogeneous SEC iXBRL filings  
-- ~**300K loan-level observations across 176 BDCs**
+- ~**300K loan-level observations across 176 BDCs** from 2023-25
 - **Position-level return reconstruction** with decomposition into:
   - Cash interest income  
   - PIK income  
