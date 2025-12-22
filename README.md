@@ -1,6 +1,7 @@
 # Private Credit Index Construction from SEC iXBRL Filings
 
-(Team: Abhinav Chhabra, Ananya Bajaj, Chia-Yi Chien, Masis Akdemir, Mohamed Azahriou
+(CFEM Team: Abhinav Chhabra, Ananya Bajaj, Chia-Yi Chien, Masis Akdemir, Mohamed Azahriou)
+
 ## Overview
 This project builds a **loan-level private credit index** using **SEC iXBRL filings from Business Development Companies (BDCs)**, designed to replicate and extend the **Cliffwater Direct Lending Index (CDLI)**. The goal is to transform fragmented, unstructured regulatory disclosures into a **clean, standardized, and analysis-ready dataset** for private credit research.
 
